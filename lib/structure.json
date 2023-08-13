@@ -1,0 +1,29 @@
+{
+    "user-name": {
+        "categories": [],
+        "transactions": {
+            "expenses": [
+                {
+                    "id": "",
+                    "title": "",
+                    "value": "",
+                    "category": "",
+                    "currency": "",
+                    "timestamp": ""
+                }
+            ],
+            "incomes": [
+                {
+                    "id": "",
+                    "title": "",
+                    "value": "",
+                    "category": "",
+                    "currency": "",
+                    "timestamp": ""
+                }
+            ]
+        },
+        "debt":{},
+        "owed": {}
+    }
+}
